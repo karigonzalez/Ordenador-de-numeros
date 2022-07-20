@@ -18,5 +18,5 @@
 
 * librería de JQUERY: Utilizada para realizar las funcionalidades requeridas para la prueba de conocimiento técnico.
 
-Url: https://karigonzalez.github.io/Ordenador-de-numeros/index.html
+
 
