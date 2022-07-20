@@ -1,6 +1,7 @@
 # ordenador-de-serie
 
-![Imagen](http://i66.tinypic.com/nownpx.png)
+![image](https://user-images.githubusercontent.com/20424574/180043010-45950ef6-29db-4ec4-9b04-3b29a65a6754.png)
+
 
 ## Prueba de conocimiento técnico
 
